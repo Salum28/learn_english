@@ -7,7 +7,7 @@ The following project was made in a Flutter course i made, and the main goals of
 * Learn how to work with tabs;
     * Just like WhatsApp, Spotify or Instagram;
 * Learn how to work with Widget that work just like fragments;
-* Learn how to make images clickable;
+* Pratice how to make images clickable;
 
 Also, one of the app's goals was to pratice layout creation and customization.
 ## How the App Works
