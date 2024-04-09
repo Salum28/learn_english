@@ -1,16 +1,20 @@
-# learn_english
+# Learn English App
 
-Projeto Aprenda Inglês
+The following project was made in a Flutter course i made, and the main goals of this app were:
 
-## Getting Started
+* Learn how to organize multiple types of files in a Flutter projects;
+* Learn how to play audios through buttons;
+* Learn how to work with tabs;
+    * Just like WhatsApp, Spotify or Instagram;
+* Learn how to work with Widget that work just like fragments;
+* Learn how to make images clickable;
 
-This project is a starting point for a Flutter application.
+Also, one of the app's goals was to pratice layout creation and customization.
+## How the App Works
 
-A few resources to get you started if this is your first Flutter project:
+When you inicialize the app, you will see three tabs, each page contains a group of clickable images, if you click in one of them, it will play a sound corresponding to the image, to help the user to learn english in a interactive way.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+For an example, if you click in the image that corresponds to the number three, it will play a sound that says: "Three".
+## Author
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [@Salum28](https://github.com/Salum28)
